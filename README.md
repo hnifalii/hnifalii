@@ -1,7 +1,10 @@
 <center><h1>Hi!</h1></center>
-Call me Hanif<br>I'm a Web and Android Developer<br>Passionate in the tech world<br>Currently learning Android and Kotlin
+Call me Hanif<br>
+I'm a Web and Android Developer<br>
+Passionate in the tech world<br>
+Currently learning Android and Kotlin
 
-# 💻 Tech Stack:
+# 💻 Been working with:
 Languages:
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
