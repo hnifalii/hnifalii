@@ -1,6 +1,6 @@
 <center><h1>Hi!</h1></center>
 Call me Hanif<br>
-I'm a Web and Android Developer<br>
+I'm a Web and Android app developer<br>
 Passionate in the tech world<br>
 Currently learning Android and Kotlin
 
